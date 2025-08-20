@@ -1,4 +1,4 @@
-# Robot_Arm_conrol
+# Robot_Arm_control
 
 # Robot Arm Controller –Flutter+PHP 
 
